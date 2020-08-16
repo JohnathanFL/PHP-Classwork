@@ -1,0 +1,32 @@
+/* Primary style for all pages */
+html {
+  background-color: #2e3440;
+  color: #eceff4;
+	font-family: Sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+/* Header iframe for all navigation */
+/* Learned about flex and justify-content */
+nav {
+	display: flex;
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #5e81ac;
+  margin-left: 2vw;
+  width: 96vw;
+	justify-content: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav a {
+	color: #5e81ac;
+	margin-left: 1em;
+	margin-right: 1em;
+}

@@ -1,0 +1,5 @@
+use leejo_menagerie;
+show tables;
+select * from pet;
+select * from event;
+select distinct species from pet;

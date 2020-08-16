@@ -1,0 +1,111 @@
+html {
+  background-color: #2e3440;
+  color: #d8dee9;
+  font-family: sans-serif;
+}
+
+
+a {
+  color: #5e81ac;
+}
+
+a:visited {
+  color: #B48EAD;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+
+td, th {
+  border-bottom: 1px solid #5e81ac;
+}
+
+td {
+}
+
+input {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+input[type=text] {
+  width: 100%;
+  margin-bottom: 0.2vh;
+}
+
+button {
+  border-style: solid;
+  border-color: #5e81ac;
+  border-width: 0.25vh;
+  background-color: #5e81ac;
+  color: #eceff4;
+  margin-top: 1vw;
+  width: 100%;
+}
+
+#playerContainer {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-evenly;
+}
+
+#playerContainer hr {
+  flex-grow: 1;
+}
+
+.playerDisplay {
+  display: flex;
+  flex-grow: 1;
+  flex-flow: column wrap;
+  height: 100%;
+  width: 50vw;
+  border-top: 5px solid white;
+  padding-top: 1vh;
+}
+
+#p1.playerDisplay {
+  border-right: 5px solid white;
+}
+
+#p2.playerDisplay {
+  padding-left: 1vw;
+}
+
+.thumbnails {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: left;
+}
+
+#p1DeckDisplay {
+  visibility: hidden;
+}
+
+#p2DeckDisplay {
+  visibility: hidden;
+}
+.card {
+  width: 3vw;
+}
+
+.hDef {
+  color: white;
+}
+
+.hKey {
+  color: #8fbcbb;
+}
+
+.hStr {
+  color: #bf616a;
+}
+
+.hHtml {
+  color: #a3be8c;
+}

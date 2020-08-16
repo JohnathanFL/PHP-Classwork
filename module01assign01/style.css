@@ -1,0 +1,27 @@
+/* I used the color scheme I use on the rest of my setup: nordtheme.com */
+
+html {
+  background-color: #2E3440;
+  color: #D8DEE9;
+  font-family: Sans;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* Otherwise the <a> won't center properly */
+p {
+  width: 100vw;
+}
+
+a {
+  width: 100vw;
+  text-align: center;
+  font-size: 2em;
+  color: #5E81AC;
+}
+a:visited {
+  color: #B48EAD;
+}
+

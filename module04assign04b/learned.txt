@@ -1,0 +1,4 @@
+Time: ~15 minutes
+Learned:
+  - VARCHAR vs TEXT datatype (from SQLite)
+  - That if you're assigned to type in 20 records, maybe you should choose simpler fields.

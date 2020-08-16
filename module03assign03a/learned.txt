@@ -1,0 +1,6 @@
+Time: ~30m
+Learned:
+	- Using sessions
+	- Alternative if syntax (using if(...): endif; to enclose blocks of html)
+	- Using 'value' to change the text of a submit button
+	- Using hidden inputs to pass data around

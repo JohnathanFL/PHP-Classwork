@@ -1,0 +1,9 @@
+Time: 2 hours(Maybe? I kinda lost track of time on this one)
+Learned:
+	- The wonders of the spaceship operator. Pew pew pew!
+	- Using type=button to have a button that doesn't affect the form its in
+	- Using JQuery (a little)
+	- array_diff and [] array syntax
+	- More about using the POST/GET redirect cycle and the problems with it
+	- Error loggin in PHP without being able to access admin stuff
+	- About making PHP stuff using a more stateful system 

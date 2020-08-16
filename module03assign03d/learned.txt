@@ -1,0 +1,11 @@
+Time Taken: ~4.01 hours
+Learned:
+- The `for` in a label attribute refers to the ID for a radio button, but that and the name
+  don't have to be the same.
+- Learned that PHP's real prickly about int-like strings, especially where maps are concerned
+- Learned about mucking with ini settings (for changing the syntax highlighting to work with my 
+  Nord theme)
+- That PHP's Date library is weird
+- Why PHP is so feared
+- The DateTime setDate method wraps its inputs around, so Feb-31 will parse
+  as 03-02. This is very annoying.

@@ -1,0 +1,2 @@
+Time: ~30 mins
+Learned: A bit about SQL batch mode and loading files.

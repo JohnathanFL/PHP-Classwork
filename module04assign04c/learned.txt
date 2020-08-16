@@ -1,0 +1,5 @@
+Time: ~110 min
+Learned:
+  - MySQL in PHP in general
+  - Prepared statements in PHP
+  - The POST/Redirect/GET cycle (stopping duplicate additions/deletions)

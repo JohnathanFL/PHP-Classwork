@@ -1,0 +1,60 @@
+html {
+  background-color: #2e3440;
+  color: #d8dee9;
+  font-family: sans-serif;
+}
+
+a {
+  color: #5e81ac;
+}
+
+a:visited {
+  color: #B48EAD;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+}
+
+
+td, th {
+  border-bottom: 1px solid #5e81ac;
+}
+
+td {
+  color: #81a1c1;
+  cursor: pointer;
+}
+
+input {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+input[type=submit]{
+  border-style: solid;
+  border-color: #5e81ac;
+  border-width: 0.25vh;
+  background-color: #5e81ac;
+  color: #eceff4;
+}
+
+.hDef {
+  color: white;
+}
+
+.hKey {
+  color: #8fbcbb;
+}
+
+.hStr {
+  color: #bf616a;
+}
+
+.hHtml {
+  color: #a3be8c;
+}

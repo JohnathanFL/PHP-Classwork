@@ -1,0 +1,45 @@
+html {
+  background-color: #2e3440;
+  color: #d8dee9;
+  font-family: sans-serif;
+}
+
+a {
+  color: #5e81ac;
+}
+
+a:visited {
+  color: #B48EAD;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  width: 50%;
+}
+
+
+
+td, th {
+  border-bottom: 1px solid #5e81ac;
+}
+
+input {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+input[type=submit], input[type=button]{
+  border-style: solid;
+  border-color: #5e81ac;
+  border-width: 0.25vh;
+  background-color: #5e81ac;
+  color: #eceff4;
+}
+
+/* Ugly, but it makes the printed code readable, at least */
+code {
+  background-color: white;
+}
